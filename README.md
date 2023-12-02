@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **MERN projects and implementing AiMl and SaaS in it & | learning DEVOPS**
 
-- 🌱 I’m currently learning **React, SaaS**
+- 🌱 I’m currently learning **React, SaaS**, Devops**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashiii1](https://github.com/ashiii1)
 
