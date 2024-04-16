@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<img src="![image](https://github.com/ashiii1/ashiii1/assets/151654233/c3877036-129d-4710-945b-b32928d8c542)" alt="justpic" 
+/>
 <h1 align="center">Hi 👋, I'm Sk Ashi</h1>
 <h3 align="center">A passionate Devops Engineer and Mern+Web3 developer from India</h3>
 
