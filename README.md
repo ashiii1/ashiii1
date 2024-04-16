@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img aligh="right" alt="pic" width ="400" height="400" src="[https://img.freepik.com/premium-photo/online-security-technology-hacking-background_943726-464.jpg](https://t3.ftcdn.net/jpg/04/38/00/36/360_F_438003622_KJJNvRrPxOtstfjZOVbJbRRocxsorlh1.jpg)" />
+<img aligh="right" alt="pic" width ="400" height="400" src="https://t3.ftcdn.net/jpg/04/38/00/36/360_F_438003622_KJJNvRrPxOtstfjZOVbJbRRocxsorlh1.jpg" />
 <h1 align="center">Hi 👋, I'm Sk Ashi</h1>
 <h3 align="center">A passionate Devops Engineer and Mern+Web3 developer from India</h3>
 
