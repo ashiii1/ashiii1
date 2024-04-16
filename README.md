@@ -1,4 +1,4 @@
-![logo](https://github.com/ashiii1/ashiii1/blob/main/SK%20ASHI.mp4)
+![logo](https://github.com/ashiii1/ashiii1/blob/main/SK%20ASHI.png)
 
 <h1 align="center">Hi 👋, I'm Ashi </h1>
 <h3 align="center">A passionate Devops Engineer & MERN+WEB3 Developer from India</h3>
