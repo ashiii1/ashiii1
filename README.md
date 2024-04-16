@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Sk Ashi</h1>
-<h3 align="center">A passionate Devops Engineer and Mern+Web3 developer from India</h3>
-<img aligh="right" alt="pic" width ="400"  src="https://t3.ftcdn.net/jpg/04/38/00/36/360_F_438003622_KJJNvRrPxOtstfjZOVbJbRRocxsorlh1.jpg" >
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiii1&label=Profile%20views&color=0e75b6&style=flat" alt="ashiii1" /> </p>
+<h1 align="center">Hi 👋, I'm Ashi </h1>
+<h3 align="center">A passionate Devops Engineer & MERN+WEB3 Developer from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 - 📫 Reach me at **aashishaik526@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
