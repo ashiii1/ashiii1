@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://github.com/ashiii1/ashiii1/blob/main/360_F_438003622_KJJNvRrPxOtstfjZOVbJbRRocxsorlh1.jpg)
 
 <h1 align="center">Hi 👋, I'm Ashi </h1>
 <h3 align="center">A passionate Devops Engineer & MERN+WEB3 Developer from India</h3>
