@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ashi </h1>
 <h3 align="center">A passionate Devops Engineer & MERN+WEB3 Developer from India</h3>
 
-<img align="right" alt="coding" width="250" height="200" src="https://img.freepik.com/premium-photo/online-security-technology-hacking-background_943726-464.jpg">
+<img align="right" alt="coding" width="350" src="https://img.freepik.com/premium-photo/online-security-technology-hacking-background_943726-464.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 - 📫 Reach me at aashishaik526@gmail.com
