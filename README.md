@@ -1,6 +1,5 @@
 ### Hi there 👋
-<img src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg" alt="justpic" 
-/>
+<img aligh="right" alt="pic" src="https://img.freepik.com/premium-photo/online-security-technology-hacking-background_943726-464.jpg"
 <h1 align="center">Hi 👋, I'm Sk Ashi</h1>
 <h3 align="center">A passionate Devops Engineer and Mern+Web3 developer from India</h3>
 
