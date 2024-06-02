@@ -1,6 +1,6 @@
 ![logo](https://github.com/ashiii1/ashiii1/blob/main/SK%20ASHI.png)
 
-<h1 align="center">Hi 👋, I'm Ashi </h1>
+<h1 align="center">Hello👋, I'm Ashi </h1>
 <h3 align="center">A passionate Devops Engineer & MERN+WEB3 Developer from India</h3>
 
 <img align="right" alt="coding" width="350" src="https://png.pngtree.com/background/20230525/original/pngtree-female-programmer-in-front-of-computer-screens-picture-image_2734159.jpg">
