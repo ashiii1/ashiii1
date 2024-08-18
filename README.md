@@ -1,4 +1,4 @@
-![logo](https://github.com/ashiii1/ashiii1/blob/main/SK%20ASHI.png)
+![Screenshot 2024-08-18 151042](https://github.com/user-attachments/assets/bb69003a-1faf-4a8a-8f9c-d5f1bb121cb8)
 
 <h1 align="center">Hello👋, I'm Ashi </h1>
 <h3 align="center">A passionate Devops Engineer & FrontEnd Developer from India</h3>
