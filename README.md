@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="350" src="https://png.pngtree.com/background/20230525/original/pngtree-female-programmer-in-front-of-computer-screens-picture-image_2734159.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username==ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 - 📫 Reach me at aashishaik526@gmail.com
 
 <h3 align="left">Connect with me:</h3>
